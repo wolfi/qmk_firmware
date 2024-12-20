@@ -6,7 +6,7 @@
 
 /* QMK */
 #define TAPPING_TERM 200
-// #define PERMISSIVE_HOLD
+#define PERMISSIVE_HOLD
 
 /* Miryoku */
 #define BILATERAL_COMBINATIONS
